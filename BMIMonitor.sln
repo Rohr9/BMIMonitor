@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BMIMonitor", "BMIMonitor\BMIMonitor.csproj", "{363422D6-A3F6-4C02-9370-07E4B45DE99C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ValueTypes", "ValueTypes", "{F97D20A3-633D-47C1-B280-AC6FC186F3BB}"
+	ProjectSection(SolutionItems) = preProject
+		Measurement.cs = Measurement.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferenceTypes", "ReferenceTypes", "{DA11B341-42DE-4BF7-BE6F-AD4CEC20F090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{363422D6-A3F6-4C02-9370-07E4B45DE99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363422D6-A3F6-4C02-9370-07E4B45DE99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363422D6-A3F6-4C02-9370-07E4B45DE99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363422D6-A3F6-4C02-9370-07E4B45DE99C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C53E2E9-3626-4054-8704-9F161BC0DA91}
+	EndGlobalSection
+EndGlobal
